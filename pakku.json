@@ -2,6 +2,6 @@
     "name": "Vanilla Nu",
     "version": "0.0.1",
     "overrides": [
-        "config"
+        "world"
     ]
 }
