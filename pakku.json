@@ -3,7 +3,7 @@
     "version": "0.1",
     "author": "flyable4472",
     "overrides": [
-    "LICENSES"
+        "LICENSES"
     ],
     "server_overrides": [
         "world/datapacks"

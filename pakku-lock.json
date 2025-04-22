@@ -10,7 +10,8 @@
         {
             "pakku_id": "pPREILVUGDaO9ues",
             "pakku_links": [
-                "QNDA5jVF0tPqcRin"
+                "QNDA5jVF0tPqcRin",
+                "ALWsxgo5slelyJyH"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -163,7 +164,7 @@
             ]
         },
         {
-            "pakku_id": "QNDA5jVF0tPqcRin",
+            "pakku_id": "ALWsxgo5slelyJyH",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -226,13 +227,13 @@
                 },
                 {
                     "type": "github",
-                    "file_name": "fabric-api-0.121.1+1.21.6.jar",
+                    "file_name": "fabric-api-0.121.0+1.21.5.jar",
                     "release_type": "release",
-                    "url": "https://github.com/FabricMC/fabric/releases/download/0.121.1+1.21.6/fabric-api-0.121.1+1.21.6.jar",
-                    "id": "248469836",
+                    "url": "https://github.com/FabricMC/fabric/releases/download/0.121.0+1.21.5/fabric-api-0.121.0+1.21.5.jar",
+                    "id": "247914255",
                     "parent_id": "156061229",
-                    "size": 2186109,
-                    "date_published": "2025-04-22T15:18:07Z"
+                    "size": 2199626,
+                    "date_published": "2025-04-20T12:07:25Z"
                 }
             ]
         },
@@ -441,7 +442,8 @@
             "pakku_links": [
                 "CZLPPfCWGWxTavN3",
                 "QNDA5jVF0tPqcRin",
-                "W5rK769QURzeKhZf"
+                "W5rK769QURzeKhZf",
+                "ALWsxgo5slelyJyH"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -887,7 +889,8 @@
             "pakku_id": "kxE7IYNgKDxJJrLr",
             "pakku_links": [
                 "cjV65bcZQr5iIjdz",
-                "QNDA5jVF0tPqcRin"
+                "QNDA5jVF0tPqcRin",
+                "ALWsxgo5slelyJyH"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -958,7 +961,8 @@
             "pakku_id": "ppLkcWUnIlzGrxKg",
             "pakku_links": [
                 "cjV65bcZQr5iIjdz",
-                "QNDA5jVF0tPqcRin"
+                "QNDA5jVF0tPqcRin",
+                "ALWsxgo5slelyJyH"
             ],
             "type": "MOD",
             "side": "CLIENT",
