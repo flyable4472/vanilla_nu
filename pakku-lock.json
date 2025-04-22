@@ -1,0 +1,157 @@
+{
+    "target": "multiplatform",
+    "mc_versions": [
+        "1.21.5"
+    ],
+    "loaders": {
+        "fabric": "latest"
+    },
+    "projects": [
+        {
+            "pakku_id": "0q3NOehyc4yU4zGf",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cloth-config",
+                "modrinth": "cloth-config"
+            },
+            "name": {
+                "curseforge": "Cloth Config API (Fabric/Forge/NeoForge)",
+                "modrinth": "Cloth Config API"
+            },
+            "id": {
+                "curseforge": "348521",
+                "modrinth": "9s6osm5g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cloth-config-18.0.145-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5",
+                        "1.21.5-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6351/756/cloth-config-18.0.145-fabric.jar",
+                    "id": "6351756",
+                    "parent_id": "348521",
+                    "hashes": {
+                        "sha1": "db73460f84cede7b5fc67dce7c38bbeb5444c63e",
+                        "md5": "0c076206786120a179fde7295eea7060"
+                    },
+                    "required_dependencies": [],
+                    "size": 1152219,
+                    "date_published": "2025-03-26T15:14:45.900Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cloth-config-18.0.145-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar",
+                    "id": "qA00xo1O",
+                    "parent_id": "9s6osm5g",
+                    "hashes": {
+                        "sha512": "2752215fdc303598f0e98208a3ddae404c413aa3de22f5e2db2f2cc2c7813f08a1731da6778a6b9056a6ebe3b74919fce67abd14332269ad0a353bdc6e9e92c4",
+                        "sha1": "db73460f84cede7b5fc67dce7c38bbeb5444c63e"
+                    },
+                    "required_dependencies": [],
+                    "size": 1152219,
+                    "date_published": "2025-03-26T15:14:48.200982Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "60myqbcm5DNqKgoo",
+            "pakku_links": [
+                "0q3NOehyc4yU4zGf"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "moreculling",
+                "modrinth": "moreculling",
+                "github": "FxMorin/MoreCulling"
+            },
+            "name": {
+                "curseforge": "MoreCulling",
+                "modrinth": "More Culling",
+                "github": "MoreCulling"
+            },
+            "id": {
+                "curseforge": "630104",
+                "modrinth": "51shyZVL",
+                "github": "499291821"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "moreculling-fabric-1.21.5-1.3.0.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6349/137/moreculling-fabric-1.21.5-1.3.0.jar",
+                    "id": "6349137",
+                    "parent_id": "630104",
+                    "hashes": {
+                        "sha1": "87b3297a5c996e62a531c63ee5a08e2f979764ed",
+                        "md5": "ec96626b510d14c9d1ee137387a03694"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 348430,
+                    "date_published": "2025-03-26T03:38:45.773Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "moreculling-fabric-1.21.5-1.3.0.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/51shyZVL/versions/XZS9Gl9x/moreculling-fabric-1.21.5-1.3.0.jar",
+                    "id": "XZS9Gl9x",
+                    "parent_id": "51shyZVL",
+                    "hashes": {
+                        "sha512": "3273cbb9cf8c73f28da71b63caa035674f61b92b3267a9e43c4b76f2d53d38e94c0f53e7f17380b486ace52745daf73952fccb93f0203f200d17c3263052b27d",
+                        "sha1": "87b3297a5c996e62a531c63ee5a08e2f979764ed"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 348430,
+                    "date_published": "2025-03-26T03:38:47.327751Z"
+                },
+                {
+                    "type": "github",
+                    "file_name": "moreculling-neoforge-1.21.5-1.3.0-sources.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/FxMorin/MoreCulling/releases/download/v1.3.0/moreculling-neoforge-1.21.5-1.3.0-sources.jar",
+                    "id": "240841504",
+                    "parent_id": "499291821",
+                    "size": 151471,
+                    "date_published": "2025-03-26T03:28:02Z"
+                }
+            ]
+        }
+    ],
+    "lockfile_version": 1
+}
