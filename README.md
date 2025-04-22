@@ -1,6 +1,9 @@
 # Vanilla Nu
 This is a modpack started as a project for making the server running smoother while still compatible with vanilla players, since I will be mainly using the vanilla server as a way to teach my friend how to play the game. Then my other friend keeps bugging me to add mini map since quote "most modpacks got it anyway". So here we are, he is also bugging me to add a backpack mod so, we shall see. 
 
+# Requirement(s)
+- [Concurrent Chunk Management Engine (Fabric) by RelativityMC](https://modrinth.com/mod/c2me-fabric) requires Java 22 in order to run, or at least the cersion I am using requires it. Will look into it for version 0.2
+
 # To do
 - [ ] [Xaero's Map Server Utils by xxtg666](https://modrinth.com/datapack/xaeros-map-server-utils)
   - To make the mini map toggle on server side
