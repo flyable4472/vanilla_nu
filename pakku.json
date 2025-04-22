@@ -1,7 +1,14 @@
 {
     "name": "Vanilla Nu",
     "version": "0.1",
+    "author": "flyable4472",
+    "overrides": [
+    "LICENSES"
+    ],
     "server_overrides": [
-        "world"
-    ]
+        "world/datapacks"
+    ],
+    "paths": {
+        "data_packs": "world/datapacks"
+    }
 }
