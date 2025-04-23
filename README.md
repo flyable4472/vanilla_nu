@@ -13,7 +13,8 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - Text Placeholder API by Patbox, ScalableLux by RelativityMC, Iris Shaders by coderbot, Cloth Config API by shedaniel, and Lithium by CaffeineMC are licensed under LGPL-3.0-only, will need to check what needs to be done about it
 - More Culling by fxmorin is licensed under GPL-3.0-only, will need to check what needs to be done about it
 - Sodium by CaffeinMC uses PolyForm Shield License 1.0.0, which again, will be on my todo list
-- Adding inventory sorting for version 0.3 because it is a hassle for new platers
+- Add inventory sorting to client side because it seems to be a hassle for new platers
+- Add zooming to client side mods if possible
 
 # Changelogs
 ## v0.2
