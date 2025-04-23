@@ -5,14 +5,22 @@ This is a modpack started as a project for making the server running smoother wh
 - [Concurrent Chunk Management Engine (Fabric) by RelativityMC](https://modrinth.com/mod/c2me-fabric) requires Java 22 in order to run, or at least the cersion I am using requires it. Will look into it for version 0.2
 
 # To do
-- [ ] [Xaero's Map Server Utils by xxtg666](https://modrinth.com/datapack/xaeros-map-server-utils)
-  - To make the mini map toggle on server side
-- Client side optimization mods
+- Jade's creator Snownee licensed their software under CC-BY-NC-SA-4.0, which means this modpack more than likely will need to use the same license down the line, will need to double-check
+- Fabric API is licensed under Apache License 2.0, will need to check what needs to be done about it
+- Text Placeholder API by Patbox, ScalableLux by RelativityMC, Iris Shaders by coderbot, Cloth Config API by shedaniel, and Lithium by CaffeineMC are licensed under LGPL-3.0-only, will need to check what needs to be done about it
+- More Culling by fxmorin is licensed under GPL-3.0-only, will need to check what needs to be done about it
+- Sodium by CaffeinMC uses PolyForm Shield License 1.0.0, which again, will be on my todo list
 
 # Changelogs
+## v0.2
+- Added Xaero's Map Server Utils for stopping certain minimap options from working when needed
+- Added Uncrafting Recipes to replace the unpacking recipes in Vanilla Tweaks for auto update
+- Added client side optimization mods
+
 ## v0.1
 - Mostly focusing on server only or server and client optimization mods
 - AppleSkin mod for better hunger and saturation illustration
+- Added Jade for item info
 - Xaero's Map and minimap so that new players can find their way around easier
   - Adding [Xaero's Map Server Utils by xxtg666](https://modrinth.com/datapack/xaeros-map-server-utils) on next version
 - Loads of data packs from Vanilla Tweak that I have to figure out how to properly integrate into the modpack
