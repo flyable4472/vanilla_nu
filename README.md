@@ -15,6 +15,7 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - More Culling by fxmorin is licensed under GPL-3.0-only, will need to check what needs to be done about it
 - Sodium by CaffeinMC uses PolyForm Shield License 1.0.0, which again, will be on my todo list
 - Add zooming to client side mods if possible
+- Add the dark menu and potentially dark loading screen
 
 # Changelogs
 ## v0.3 (Upcoming)
