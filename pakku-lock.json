@@ -518,6 +518,121 @@
             ]
         },
         {
+            "pakku_id": "FdyrejPdaGki4KMB",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fabric-language-kotlin",
+                "modrinth": "fabric-language-kotlin",
+                "github": "FabricMC/fabric-language-kotlin"
+            },
+            "name": {
+                "curseforge": "Fabric Language Kotlin",
+                "modrinth": "Fabric Language Kotlin",
+                "github": "fabric-language-kotlin"
+            },
+            "id": {
+                "curseforge": "308769",
+                "modrinth": "Ha28R6CL",
+                "github": "66028441"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6327/842/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "id": "6327842",
+                    "parent_id": "308769",
+                    "hashes": {
+                        "sha1": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1",
+                        "md5": "a5c2953271eede6b0dded7a2bc3f09fe"
+                    },
+                    "required_dependencies": [],
+                    "size": 7159151,
+                    "date_published": "2025-03-21T08:55:24.303Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "mc_versions": [
+                        "1.14",
+                        "1.14.1",
+                        "1.14.2",
+                        "1.14.3",
+                        "1.14.4",
+                        "1.15",
+                        "1.15.1",
+                        "1.15.2",
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "id": "E4WyjCxJ",
+                    "parent_id": "Ha28R6CL",
+                    "hashes": {
+                        "sha512": "875c8ea380dce07c8a3dd5249226265745d3fc84876e2f1b235ce99084aa991f7d08c05ab12d73a3209649e3bd4d7c407b96d4b4f4a332179d40afdae836a92f",
+                        "sha1": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1"
+                    },
+                    "required_dependencies": [],
+                    "size": 7159151,
+                    "date_published": "2025-03-21T08:55:27.595588Z"
+                },
+                {
+                    "type": "github",
+                    "file_name": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.13.2+kotlin.2.1.20/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "id": "239501595",
+                    "parent_id": "66028441",
+                    "size": 7159151,
+                    "date_published": "2025-03-21T08:55:24Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "m3QRfvmz0p19K8Lz",
             "type": "MOD",
             "side": "BOTH",
@@ -575,6 +690,97 @@
                     "required_dependencies": [],
                     "size": 79653,
                     "date_published": "2025-03-30T07:36:20.484598Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "odKSaT3KGP0QPgfC",
+            "pakku_links": [
+                "2nBtIQDBAJa6ra7O",
+                "ALWsxgo5slelyJyH",
+                "kFvZxZop2KRWdcYu",
+                "j4KRCdbWPPYZKDhy",
+                "FdyrejPdaGki4KMB"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "inventory-profiles-next",
+                "modrinth": "inventory-profiles-next",
+                "github": "blackd/Inventory-Profiles"
+            },
+            "name": {
+                "curseforge": "Inventory Profiles Next",
+                "modrinth": "Inventory Profiles Next",
+                "github": "Inventory-Profiles"
+            },
+            "id": {
+                "curseforge": "495267",
+                "modrinth": "O7RBXm3n",
+                "github": "351481591"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "InventoryProfilesNext-fabric-1.21.5-2.1.7.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6411/412/InventoryProfilesNext-fabric-1.21.5-2.1.7.jar",
+                    "id": "6411412",
+                    "parent_id": "495267",
+                    "hashes": {
+                        "sha1": "41ed8b4413d57dc221f590bee3999e1cd9e6432b",
+                        "md5": "4eaa3bbd1e0028229b4fcb6a0150656c"
+                    },
+                    "required_dependencies": [
+                        "308769",
+                        "306612",
+                        "679177"
+                    ],
+                    "size": 1302326,
+                    "date_published": "2025-04-11T16:34:27.690Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "InventoryProfilesNext-fabric-1.21.5-2.1.7.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/Zk6L6ZzY/InventoryProfilesNext-fabric-1.21.5-2.1.7.jar",
+                    "id": "Zk6L6ZzY",
+                    "parent_id": "O7RBXm3n",
+                    "hashes": {
+                        "sha512": "04ed97cc1eb13a7c541ef71f09f8558afea9e2d76ffb7e125ec58ef3fa633cc3adad7494913554aeb82ddadbc80281dc587dc8adcddf3adddd3b4f8df289bddb",
+                        "sha1": "41ed8b4413d57dc221f590bee3999e1cd9e6432b"
+                    },
+                    "required_dependencies": [
+                        "Ha28R6CL",
+                        "onSQdWhM",
+                        "P7dR8mSH"
+                    ],
+                    "size": 1302326,
+                    "date_published": "2025-04-11T16:34:26.513497Z"
+                },
+                {
+                    "type": "github",
+                    "file_name": "InventoryProfilesNext-forge-1.20-1.10.7.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/blackd/Inventory-Profiles/releases/download/v1.10.7/InventoryProfilesNext-forge-1.20-1.10.7.jar",
+                    "id": "122330718",
+                    "parent_id": "351481591",
+                    "size": 1351199,
+                    "date_published": "2023-08-20T16:37:58Z"
                 }
             ]
         },
@@ -1752,6 +1958,93 @@
                     ],
                     "size": 974513,
                     "date_published": "2025-04-22T09:23:05.049485Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "j4KRCdbWPPYZKDhy",
+            "pakku_links": [
+                "2nBtIQDBAJa6ra7O",
+                "ALWsxgo5slelyJyH",
+                "FdyrejPdaGki4KMB"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "libipn",
+                "modrinth": "libipn",
+                "github": "blackd/libIPN"
+            },
+            "name": {
+                "curseforge": "libIPN",
+                "modrinth": "libIPN",
+                "github": "libIPN"
+            },
+            "id": {
+                "curseforge": "679177",
+                "modrinth": "onSQdWhM",
+                "github": "539597745"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "libIPN-fabric-1.21.5-6.5.0.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6411/389/libIPN-fabric-1.21.5-6.5.0.jar",
+                    "id": "6411389",
+                    "parent_id": "679177",
+                    "hashes": {
+                        "sha1": "887039bf0bc0a3b3917ab9abd2bbe5b37046c2ee",
+                        "md5": "21f628364972518125bbea00e63f724c"
+                    },
+                    "required_dependencies": [
+                        "308769",
+                        "306612"
+                    ],
+                    "size": 642430,
+                    "date_published": "2025-04-11T16:30:09.290Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "libIPN-fabric-1.21.5-6.5.0.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/cyV6tfJI/libIPN-fabric-1.21.5-6.5.0.jar",
+                    "id": "cyV6tfJI",
+                    "parent_id": "onSQdWhM",
+                    "hashes": {
+                        "sha512": "32c1439a84ad4760461892685145ab209730b5f8f7081dc2e71eab97cda3063487112b8048f52647deb909b865caec6b61f1d2728a76fa583f05e9c3c6a19b54",
+                        "sha1": "887039bf0bc0a3b3917ab9abd2bbe5b37046c2ee"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "Ha28R6CL"
+                    ],
+                    "size": 642430,
+                    "date_published": "2025-04-11T16:30:08.215329Z"
+                },
+                {
+                    "type": "github",
+                    "file_name": "libIPN-forge-1.19.4-3.0.1.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/blackd/libIPN/releases/download/v3.0.1/libIPN-forge-1.19.4-3.0.1.jar",
+                    "id": "109157865",
+                    "parent_id": "539597745",
+                    "size": 667030,
+                    "date_published": "2023-05-21T18:55:25Z"
                 }
             ]
         }

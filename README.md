@@ -9,17 +9,18 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 
 # To do
 - Jade's creator Snownee licensed their software under CC-BY-NC-SA-4.0, which means this modpack more than likely will need to use the same license down the line, will need to double-check
-- Fabric API is licensed under Apache License 2.0, will need to check what needs to be done about it
+- Fabric API and Fabric Language Kotlin by modmuss50 are both licensed under Apache License 2.0, will need to check what needs to be done about it
 - Text Placeholder API by Patbox, ScalableLux by RelativityMC, Iris Shaders by coderbot, Cloth Config API by shedaniel, and Lithium by CaffeineMC are licensed under LGPL-3.0-only, will need to check what needs to be done about it
+- Inventory Profiles Next by mirinimi (or blackd?), libIPN by mirinimi (or blackd?) uses AGPL-3.0-or-later, which again, will be on my todo list
 - More Culling by fxmorin is licensed under GPL-3.0-only, will need to check what needs to be done about it
 - Sodium by CaffeinMC uses PolyForm Shield License 1.0.0, which again, will be on my todo list
-- Add inventory sorting to client side because it seems to be a hassle for new platers
 - Add zooming to client side mods if possible
 
 # Changelogs
 ## v0.3 (Upcoming)
 - Added Server Sleep to replace Multiplayer Sleep from Vanilla Tweak (Will need testing since it seems to be just a game rule change, will want to see if we can override that with config)
 - Added Shulkers Drop Two Shells to replace Double Shulker Shells from Vanilla Tweak
+- Added Inventory Profiles Next for inventory sorting since that seems to be a big hurdle for new players
 
 ## v0.2
 - Added Xaero's Map Server Utils for stopping certain minimap options from working when needed
