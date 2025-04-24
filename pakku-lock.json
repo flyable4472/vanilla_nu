@@ -1124,6 +1124,48 @@
             ]
         },
         {
+            "pakku_id": "wU7BOnzNic8pjpek",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "serversleep"
+            },
+            "name": {
+                "modrinth": "Server Sleep"
+            },
+            "id": {
+                "modrinth": "Cw8IlnGM"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ServerSleep.zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Cw8IlnGM/versions/kfZmpsoO/ServerSleep.zip",
+                    "id": "kfZmpsoO",
+                    "parent_id": "Cw8IlnGM",
+                    "hashes": {
+                        "sha512": "dccc010424f87b425f8a22419c76d7235a98c74095bf0603548c10c0483265969ff41aebdba5cc59f3c9c986f3f80fbfc62f592c0e1eedeeeb65143cf66b11cb",
+                        "sha1": "9b1d50fd130071c51de60cbd7f69e58f6758e409"
+                    },
+                    "required_dependencies": [],
+                    "size": 2433,
+                    "date_published": "2024-10-11T11:54:38.855713Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lJJPiZeWlZtrnMum",
             "type": "MOD",
             "side": "BOTH",
@@ -1182,6 +1224,43 @@
                     "required_dependencies": [],
                     "size": 930568,
                     "date_published": "2025-04-06T10:59:53.386359Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Y374Wq1kpU83uyHD",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "two-shulker-shells-drop"
+            },
+            "name": {
+                "modrinth": "Shulkers Drop Two Shells"
+            },
+            "id": {
+                "modrinth": "ZHZLKDpx"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ShulkerDropsTwoShells-[1.21.5]-v.2.2.0.zip",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZHZLKDpx/versions/qshUJbnB/ShulkerDropsTwoShells-[1.21.5]-v.2.2.0.zip",
+                    "id": "qshUJbnB",
+                    "parent_id": "ZHZLKDpx",
+                    "hashes": {
+                        "sha512": "0173724ce7dcc59737759cc75e70b166205562c149dc52fceb0b21f6392719ae3c035110b03ee10a3bab1f8e22e41d298c0718802b3ac11c403112d5c63b0761",
+                        "sha1": "5fa8602b19bf0d2e483e2766c4b81d00757625e0"
+                    },
+                    "required_dependencies": [],
+                    "size": 60112,
+                    "date_published": "2025-04-17T10:26:31.007184Z"
                 }
             ]
         },
