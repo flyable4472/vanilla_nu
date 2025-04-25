@@ -276,6 +276,74 @@
             ]
         },
         {
+            "pakku_id": "fMF1OXhOjCDC6o36",
+            "pakku_links": [
+                "cHAeNOZXTjr5whc8"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "craftpresence",
+                "modrinth": "craftpresence"
+            },
+            "name": {
+                "curseforge": "CraftPresence",
+                "modrinth": "CraftPresence"
+            },
+            "id": {
+                "curseforge": "297038",
+                "modrinth": "DFqQfIBR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CraftPresence-2.5.5+1.21.5-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6460/532/CraftPresence-2.5.5+1.21.5-fabric.jar",
+                    "id": "6460532",
+                    "parent_id": "297038",
+                    "hashes": {
+                        "sha1": "534e865e851fa8b835778c39af01485ccc853746",
+                        "md5": "335dc2ba63c9490523b8bdba48223807"
+                    },
+                    "required_dependencies": [
+                        "1056812"
+                    ],
+                    "size": 2181304,
+                    "date_published": "2025-04-24T19:25:38.397Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CraftPresence-2.5.5+1.21.5-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DFqQfIBR/versions/GGyIaLPV/CraftPresence-2.5.5+1.21.5-fabric.jar",
+                    "id": "GGyIaLPV",
+                    "parent_id": "DFqQfIBR",
+                    "hashes": {
+                        "sha512": "6565fa892c21583f0a312eb1e2b1dbe8153a88337df1f944c68097f42b683b1c1c136ca06f053df078eeb93019a9c5a2c863041c60f08bb0994a8c9b66e11488",
+                        "sha1": "534e865e851fa8b835778c39af01485ccc853746"
+                    },
+                    "required_dependencies": [
+                        "nT86WUER"
+                    ],
+                    "size": 2181304,
+                    "date_published": "2025-04-24T19:25:56.273519Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9CS9cdVG9IgP5oTU",
             "pakku_links": [
                 "ALWsxgo5slelyJyH"
@@ -1723,6 +1791,67 @@
                     "required_dependencies": [],
                     "size": 22970,
                     "date_published": "2025-03-26T13:21:13.978926Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cHAeNOZXTjr5whc8",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "unilib",
+                "modrinth": "unilib"
+            },
+            "name": {
+                "curseforge": "UniLib",
+                "modrinth": "UniLib"
+            },
+            "id": {
+                "curseforge": "1056812",
+                "modrinth": "nT86WUER"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "UniLib-1.0.6+1.21.5-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6449/137/UniLib-1.0.6+1.21.5-fabric.jar",
+                    "id": "6449137",
+                    "parent_id": "1056812",
+                    "hashes": {
+                        "sha1": "efa65a5c31bb8a138b8f3d5141b1aec145901e8e",
+                        "md5": "412087e61c853d9273290e17e403205d"
+                    },
+                    "required_dependencies": [],
+                    "size": 1791056,
+                    "date_published": "2025-04-21T19:26:18.567Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "UniLib-1.0.6+1.21.5-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nT86WUER/versions/aFp9bMtV/UniLib-1.0.6+1.21.5-fabric.jar",
+                    "id": "aFp9bMtV",
+                    "parent_id": "nT86WUER",
+                    "hashes": {
+                        "sha512": "3b43e251804f8ed61134956ab1fcd918c8bf2d421a82f1fc5e400c956386d4f5707c90b9429ee10f461a01f6ed10933fe3e398c55377b542ae3ee13575c90a34",
+                        "sha1": "efa65a5c31bb8a138b8f3d5141b1aec145901e8e"
+                    },
+                    "required_dependencies": [],
+                    "size": 1791056,
+                    "date_published": "2025-04-21T19:26:36.073615Z"
                 }
             ]
         },
