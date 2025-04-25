@@ -19,7 +19,7 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - See if there is any way to sync the map mod with server
 
 # Changelogs
-## v0.3a
+## v0.3
 - Added Server Sleep to replace Multiplayer Sleep from Vanilla Tweak
   - Will need testing since it seems to be just a game rule change, will want to see if we can override that with config
 - Added Shulkers Drop Two Shells to replace Double Shulker Shells from Vanilla Tweak
