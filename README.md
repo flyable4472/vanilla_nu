@@ -16,6 +16,7 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - Sodium by CaffeinMC uses PolyForm Shield License 1.0.0, which again, will be on my todo list
 - Add zooming to client side mods if possible
 - Add the dark menu and potentially dark loading screen
+- See if there is any way to sync the map mod with server
 
 # Changelogs
 ## v0.3 (Upcoming)
