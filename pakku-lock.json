@@ -90,6 +90,82 @@
             ]
         },
         {
+            "pakku_id": "rz93asGOnVJMflZZ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "auth-me",
+                "modrinth": "auth-me",
+                "github": "axieum/authme"
+            },
+            "name": {
+                "curseforge": "Auth Me",
+                "modrinth": "Auth Me",
+                "github": "authme"
+            },
+            "id": {
+                "curseforge": "356643",
+                "modrinth": "yjgIrBjZ",
+                "github": "231108285"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "authme-fabric-9.0.1+1.21.5.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6351/772/authme-fabric-9.0.1+1.21.5.jar",
+                    "id": "6351772",
+                    "parent_id": "356643",
+                    "hashes": {
+                        "sha1": "c4316277edaa1c150d81301976f6c26a808f181a",
+                        "md5": "dda4429c9638666c2cc7e11a02ccd7a7"
+                    },
+                    "required_dependencies": [],
+                    "size": 377809,
+                    "date_published": "2025-03-26T15:20:22.817Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "authme-fabric-9.0.1+1.21.5.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/VS9Jw8A3/authme-fabric-9.0.1+1.21.5.jar",
+                    "id": "VS9Jw8A3",
+                    "parent_id": "yjgIrBjZ",
+                    "hashes": {
+                        "sha512": "e4df36e4478b8df410525270bd728a42b813eb3a391ef12f4043438aaaef6b7af15a12be8633d0453e0d25c7b0cb670eeb04528ff0a4e63a3ec6954c80f7ed09",
+                        "sha1": "c4316277edaa1c150d81301976f6c26a808f181a"
+                    },
+                    "required_dependencies": [],
+                    "size": 377809,
+                    "date_published": "2025-03-26T15:20:26.485811Z"
+                },
+                {
+                    "type": "github",
+                    "file_name": "authme-neoforge-9.0.1+1.21.5.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/axieum/authme/releases/download/v9.0.1+1.21.5/authme-neoforge-9.0.1+1.21.5.jar",
+                    "id": "240978309",
+                    "parent_id": "231108285",
+                    "size": 370111,
+                    "date_published": "2025-03-26T15:14:00Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7Bqjx6ZWhHjDqt77",
             "type": "DATA_PACK",
             "side": "SERVER",
@@ -340,6 +416,88 @@
                     ],
                     "size": 2181304,
                     "date_published": "2025-04-24T19:25:56.273519Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kAz5MiIvMQtZgKPZ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "dark-loading-screen",
+                "github": "A5b84/dark-loading-screen",
+                "curseforge": "dark-loading-screen"
+            },
+            "name": {
+                "modrinth": "Dark Loading Screen",
+                "github": "dark-loading-screen",
+                "curseforge": "Dark Loading Screen"
+            },
+            "id": {
+                "modrinth": "h3XWIuzM",
+                "github": "245009840",
+                "curseforge": "365727"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "dark-loading-screen-1.6.16.jar",
+                    "mc_versions": [
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/h3XWIuzM/versions/RpbWPV5P/dark-loading-screen-1.6.16.jar",
+                    "id": "RpbWPV5P",
+                    "parent_id": "h3XWIuzM",
+                    "hashes": {
+                        "sha512": "7b9c807eafc52e020abfd080a8c10a8adb4b8ff66a5fec412f2a7f143edfe5fd64426d8079ef594d73481845811c1f35ed3988a2f6bea22e52438a3948ee103b",
+                        "sha1": "981df4315f59c01a5ae39e43c5aa2db05330479f"
+                    },
+                    "required_dependencies": [],
+                    "size": 44614,
+                    "date_published": "2025-03-24T14:10:32.411245Z"
+                },
+                {
+                    "type": "github",
+                    "file_name": "dark-loading-screen-1.6.16.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/A5b84/dark-loading-screen/releases/download/v1.6.16/dark-loading-screen-1.6.16.jar",
+                    "id": "240317863",
+                    "parent_id": "245009840",
+                    "size": 44614,
+                    "date_published": "2025-03-24T14:09:26Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "dark-loading-screen-1.6.16.jar",
+                    "mc_versions": [
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6340/33/dark-loading-screen-1.6.16.jar",
+                    "id": "6340033",
+                    "parent_id": "365727",
+                    "hashes": {
+                        "sha1": "981df4315f59c01a5ae39e43c5aa2db05330479f",
+                        "md5": "e2755918a300192d1a69f8ef84fecb22"
+                    },
+                    "required_dependencies": [],
+                    "size": 44614,
+                    "date_published": "2025-03-24T14:12:06.417Z"
                 }
             ]
         },
