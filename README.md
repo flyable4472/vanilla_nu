@@ -19,6 +19,11 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - Create a new discord app following [this guide](https://gitlab.com/CDAGaming/CraftPresence/-/wikis/Making-your-Own-Client-ID-+-Using-your-own-Images) to get a unique pack name and images
 
 # Upcoming Release
+
+
+# Changelogs
+
+
 ### v0.4
 - Got CC-BY-NC-SA-4.0 and Apache License 2.0 sorted
   - LGPL-3.0-only and AGPL-3.0-or-later are also technically sorted, just need to attach the licenses to the LICENSES file
@@ -27,8 +32,8 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - Added Auth Me to keep the session longer while idle
 - Added config for Mod Menu to hide mods that are either serverside or got no settings
 - Added config for Xaero's Minimap because thats the zoom size I think most people will like
+- Pakku for some reason is not properly parsing github address to modpack files, removed github address from almost all mods
 
-# Changelogs
 ### v0.3
 - Added Server Sleep to replace Multiplayer Sleep from Vanilla Tweak
   - Will need testing since it seems to be just a game rule change, will want to see if we can override that with config
