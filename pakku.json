@@ -4,7 +4,8 @@
     "author": "flyable4472",
     "overrides": [
         "LICENSES",
-        "config"
+        "config",
+        "options.txt"
     ],
     "server_overrides": [
         "world/datapacks"

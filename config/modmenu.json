@@ -34,8 +34,7 @@
     "unilib",
     "servercore",
     "sodium",
-    "structure_layout_optimizer",
-    "xaerominimap"
+    "structure_layout_optimizer"
   ],
   "hidden_configs": [],
   "disable_update_checker": []

@@ -11,11 +11,10 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - ~~Text Placeholder API by Patbox, ScalableLux by RelativityMC, Iris Shaders by coderbot, Cloth Config API by shedaniel, and Lithium by CaffeineMC are licensed under LGPL-3.0-only, will need to check what needs to be done about it~~
   - LGPL-3.0-only needs me to attach the license like MIT does, and also requires you to use the same license if you are making a library, which I am not
 - ~~Inventory Profiles Next by mirinimi (or blackd?), libIPN by mirinimi (or blackd?) uses AGPL-3.0-or-later, which again, will be on my todo list~~
-  - AGPL-3.0-or-later needs me to attach the license like MIT does, and also requires you to use the same license if you are making a derivative work, which ince again, I am not 
+  - AGPL-3.0-or-later needs me to attach the license like MIT does, and also requires you to use the same license if you are making a derivative work, which ince again, I am not
 - More Culling by fxmorin is licensed under GPL-3.0-only, will need to check what needs to be done about it
 - Sodium by CaffeinMC uses PolyForm Shield License 1.0.0, which again, will be on my todo list
 - Add zooming to client side mods if possible
-- Add the dark menu
 - See if there is any way to sync the map mod with server
 - Create a new discord app following [this guide](https://gitlab.com/CDAGaming/CraftPresence/-/wikis/Making-your-Own-Client-ID-+-Using-your-own-Images) to get a unique pack name and images
 
@@ -26,7 +25,7 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - Turns out there is a difference between MIT license and tr7zw Protective License, separated the 2 and added the latter into the LICENSES file
 - Added the Dark Loading Screen to not kill my eye
 - Added Auth Me to keep the session longer while idle
-- Added config for Mod Menu to hide mods that are either serverside, no settings, or got another mod that can link settings to it
+- Added config for Mod Menu to hide mods that are either serverside or got no settings
 - Added config for Xaero's Minimap because thats the zoom size I think most people will like
 
 # Changelogs
