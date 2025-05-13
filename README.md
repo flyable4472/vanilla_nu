@@ -1,5 +1,5 @@
 # Vanilla Nu
-This is a modpack started as a project for making the server running smoother while still compatible with vanilla players, since I will be mainly using the vanilla server as a way to teach my friend how to play the game. 
+This is a modpack started as a project for making the server running smoother while still compatible with vanilla players, since I will be mainly using the vanilla server as a way to teach my friend how to play the game. This mod pack works as a client side enhancement as well, and both the client side and the server side is compatible with vanilla client and server. Modrinth just currently got a bug where I can't change it back. 
 
 # Requirement(s)
 - (Server Side Only) [Concurrent Chunk Management Engine (Fabric) by RelativityMC](https://modrinth.com/mod/c2me-fabric) requires Java 22 in order to run, or at least the version I am using requires it. Will look into the issue before version 1.0
