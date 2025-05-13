@@ -2,7 +2,7 @@
 This is a modpack started as a project for making the server running smoother while still compatible with vanilla players, since I will be mainly using the vanilla server as a way to teach my friend how to play the game. 
 
 # Requirement(s)
-- [Concurrent Chunk Management Engine (Fabric) by RelativityMC](https://modrinth.com/mod/c2me-fabric) requires Java 22 in order to run, or at least the version I am using requires it. Will look into the issue before version 1.0
+- (Server Side Only) [Concurrent Chunk Management Engine (Fabric) by RelativityMC](https://modrinth.com/mod/c2me-fabric) requires Java 22 in order to run, or at least the version I am using requires it. Will look into the issue before version 1.0
 
 # Licenses
 It is included in the modpack's LICENSES file, at least for most of the mods, attributions should have been done correctly. However, I am still in the process of combing through the rest of them to get the licensing right. Please forgive my tardiness as I am but a single man with multiple projects and very short attention span. 
