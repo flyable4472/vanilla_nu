@@ -51,8 +51,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric"]
+incompatibleResourcePacks:["appleskin","authme","jade","xaerominimap","xaeroworldmap"]
 lastServer:
 lang:en_ca
 chatVisibility:0

@@ -14,15 +14,20 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
   - AGPL-3.0-or-later needs me to attach the license like MIT does, and also requires you to use the same license if you are making a derivative work, which ince again, I am not
 - More Culling by fxmorin is licensed under GPL-3.0-only, will need to check what needs to be done about it
 - Sodium by CaffeinMC uses PolyForm Shield License 1.0.0, which again, will be on my todo list
-- Add zooming to client side mods if possible
+- Add zooming to client side mods if possible (Zoomify?)
 - See if there is any way to sync the map mod with server
 - Create a new discord app following [this guide](https://gitlab.com/CDAGaming/CraftPresence/-/wikis/Making-your-Own-Client-ID-+-Using-your-own-Images) to get a unique pack name and images
+- Get a clear glass resource pack and figure out how to set it to server resource pack
+- Maybe add Presence Footsteps for better immmersive gameplay
 
 # Upcoming Release
 
 
 # Changelogs
-
+### v0.5
+- Added a shader pack (MakeUp - Ultra Fast)
+- Added Roughly Enough Items for a JEI interface
+- Added Durability Plus for better durability visualization
 
 ### v0.4
 - Got CC-BY-NC-SA-4.0 and Apache License 2.0 sorted

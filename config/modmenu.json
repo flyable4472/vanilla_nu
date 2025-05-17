@@ -34,7 +34,10 @@
     "unilib",
     "servercore",
     "sodium",
-    "structure_layout_optimizer"
+    "structure_layout_optimizer",
+    "durabilityplus",
+    "minecraft",
+    "error_notifier"
   ],
   "hidden_configs": [],
   "disable_update_checker": []

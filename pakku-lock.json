@@ -76,6 +76,75 @@
             ]
         },
         {
+            "pakku_id": "qY2DdVWkE52ZEFB1",
+            "pakku_links": [
+                "ChoiMBx5q67EHAQh"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "architectury-api",
+                "modrinth": "architectury-api"
+            },
+            "name": {
+                "curseforge": "Architectury API",
+                "modrinth": "Architectury API"
+            },
+            "id": {
+                "curseforge": "419699",
+                "modrinth": "lhGA9TYQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "architectury-16.1.4-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5",
+                        "1.21.5-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6406/227/architectury-16.1.4-fabric.jar",
+                    "id": "6406227",
+                    "parent_id": "419699",
+                    "hashes": {
+                        "sha1": "7d26d978a4f64800f15363cebea7b26c79a33fa3",
+                        "md5": "b716467b5448cb1d197200bf79263d99"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 589366,
+                    "date_published": "2025-04-10T06:55:09.690Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "architectury-16.1.4-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ImZUcNzP/architectury-16.1.4-fabric.jar",
+                    "id": "ImZUcNzP",
+                    "parent_id": "lhGA9TYQ",
+                    "hashes": {
+                        "sha512": "2edf94af0b6fc9e72e91b4a094e7168b4c2fedbdc0c0713b01d817e4294e297a75fdd8cd89e6e50a9a559d7bf0ad75fcb93d35e1b0beb62c9d1d814f94b53cdf",
+                        "sha1": "7d26d978a4f64800f15363cebea7b26c79a33fa3"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 589366,
+                    "date_published": "2025-04-10T06:55:12.101440Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "kq9KlShCJwAYwjS3",
             "type": "MOD",
             "side": "CLIENT",
@@ -445,6 +514,50 @@
                     "required_dependencies": [],
                     "size": 44614,
                     "date_published": "2025-03-24T14:10:32.411245Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gGyZqhjdNTA83bNK",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "durability-plus"
+            },
+            "name": {
+                "modrinth": "Durability Plus"
+            },
+            "id": {
+                "modrinth": "na1dL51S"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "durabilityplus_1.20.5-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/na1dL51S/versions/xoq7hD8B/durabilityplus_1.20.5-1.1.0.jar",
+                    "id": "xoq7hD8B",
+                    "parent_id": "na1dL51S",
+                    "hashes": {
+                        "sha512": "cf0d9f7f8c57bfe82deab66000898ac53460720d0fd45f2c385f8ebe163cef5cf39841a2f16af8572aa22f14f9a4b74ccafbcb1def0a5d2e2b3a22f0343a43b1",
+                        "sha1": "a88ed1d86039a47b79e68c73c43631a3835f14e7"
+                    },
+                    "required_dependencies": [],
+                    "size": 8210,
+                    "date_published": "2024-05-10T20:34:25.279555Z"
                 }
             ]
         },
@@ -1089,6 +1202,110 @@
             ]
         },
         {
+            "pakku_id": "BWXSD2z5lmueDErI",
+            "type": "SHADER",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "makeup-ultra-fast-shaders",
+                "curseforge": "makeup-ultra-fast-shader"
+            },
+            "name": {
+                "modrinth": "MakeUp - Ultra Fast",
+                "curseforge": "MakeUp - Ultra Fast | Shaders"
+            },
+            "id": {
+                "modrinth": "izsIPI7a",
+                "curseforge": "431203"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "MakeUp-UltraFast-9.1e.zip",
+                    "mc_versions": [
+                        "1.12.2",
+                        "1.13",
+                        "1.13.1",
+                        "1.13.2",
+                        "1.14",
+                        "1.14.1",
+                        "1.14.2",
+                        "1.14.3",
+                        "1.14.4",
+                        "1.15",
+                        "1.15.1",
+                        "1.15.2",
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "iris",
+                        "optifine"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/izsIPI7a/versions/XqoDnYD9/MakeUp-UltraFast-9.1e.zip",
+                    "id": "XqoDnYD9",
+                    "parent_id": "izsIPI7a",
+                    "hashes": {
+                        "sha512": "ebf91c9295e81cae8fa5a733a0960938ae69bd5894db85dc5b286e2a3fa0216ad7e41e06daba570e884c719a904f59b06c03bd31d6d0fd4a68280f0c563d6503",
+                        "sha1": "a5d10e0947bd84616a2b99e2c2ca260a07a4d8a0"
+                    },
+                    "required_dependencies": [],
+                    "size": 367942,
+                    "date_published": "2025-04-27T00:03:37.191140Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "MakeUp-UltraFast-9.1d.zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6441/661/MakeUp-UltraFast-9.1d.zip",
+                    "id": "6441661",
+                    "parent_id": "431203",
+                    "hashes": {
+                        "sha1": "339aff848b7774c6f11ca260471933435e8f99ed",
+                        "md5": "34cc9c77d62a8996d146bb7fde2ca317"
+                    },
+                    "required_dependencies": [],
+                    "size": 385360,
+                    "date_published": "2025-04-19T20:29:48.773Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "OMPgrwq1nmwJpuuB",
             "pakku_links": [
                 "W5rK769QURzeKhZf",
@@ -1295,6 +1512,80 @@
                     "required_dependencies": [],
                     "size": 367489,
                     "date_published": "2025-04-27T12:07:33.777399Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oyyBfZDz5jXJSlyM",
+            "pakku_links": [
+                "qY2DdVWkE52ZEFB1",
+                "wGwS1udOxycWduJV",
+                "ChoiMBx5q67EHAQh"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "rei",
+                "curseforge": "roughly-enough-items"
+            },
+            "name": {
+                "modrinth": "Roughly Enough Items (REI)",
+                "curseforge": "Roughly Enough Items Fabric/Forge/NeoForge (REI)"
+            },
+            "id": {
+                "modrinth": "nfn13YXA",
+                "curseforge": "310111"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "RoughlyEnoughItems-19.0.806-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/HolhxWBq/RoughlyEnoughItems-19.0.806-fabric.jar",
+                    "id": "HolhxWBq",
+                    "parent_id": "nfn13YXA",
+                    "hashes": {
+                        "sha512": "e3b12ba4bb79654c097d7e280bc5744bba44c5f0f80317da5ff6fa3b9d2930848f7f36d50dddcf5b28045dc31400c1ab78e8dc9071d81c65f1b922fcc76f258e",
+                        "sha1": "88015e60761f4527d92648bcb04087045b804e9d"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "9s6osm5g",
+                        "P7dR8mSH"
+                    ],
+                    "size": 2491486,
+                    "date_published": "2025-04-12T08:52:36.430911Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "RoughlyEnoughItems-19.0.806-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6414/280/RoughlyEnoughItems-19.0.806-fabric.jar",
+                    "id": "6414280",
+                    "parent_id": "310111",
+                    "hashes": {
+                        "sha1": "88015e60761f4527d92648bcb04087045b804e9d",
+                        "md5": "0afc5a98fb7c2e5bb2fa1661b35ecc07"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "419699",
+                        "306612"
+                    ],
+                    "size": 2491486,
+                    "date_published": "2025-04-12T08:52:32.710Z"
                 }
             ]
         },
