@@ -28,7 +28,7 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - Added a shader pack (MakeUp - Ultra Fast)
 - Added Roughly Enough Items for a JEI interface
 - Added Durability Plus for better durability visualization
-- Updated Dynamic FPS, Fabric Langugae Kotlin, Xaero's Minimap and Xaero's World Map
+- Updated Dynamic FPS, Fabric Language Kotlin, Xaero's Minimap and Xaero's World Map
 
 ### v0.4
 - Got CC-BY-NC-SA-4.0 and Apache License 2.0 sorted
