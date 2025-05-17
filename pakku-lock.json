@@ -582,6 +582,36 @@
             },
             "files": [
                 {
+                    "type": "modrinth",
+                    "file_name": "dynamic-fps-3.9.4+minecraft-1.21.5-fabric.jar",
+                    "mc_versions": [
+                        "1.21.5",
+                        "25w14craftmine",
+                        "25w15a",
+                        "25w16a",
+                        "25w17a",
+                        "25w18a",
+                        "25w19a",
+                        "25w20a"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wrSjf4ld/dynamic-fps-3.9.4+minecraft-1.21.5-fabric.jar",
+                    "id": "wrSjf4ld",
+                    "parent_id": "LQ3K71Q1",
+                    "hashes": {
+                        "sha512": "fa59f35bfdd3509c49362cbcdda35a08f706ff053594afd44c37176d75c536120cb66fa2b129782e707a6aa7fe2ecb7d3bd477d0e22d4b6ef4c937f687626b8b",
+                        "sha1": "317fa92e11ff83bdda2dce899c1d096ef16fca9f"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 192205,
+                    "date_published": "2025-05-06T12:16:35.139124Z"
+                },
+                {
                     "type": "curseforge",
                     "file_name": "dynamic-fps-3.9.4+minecraft-1.21.5-fabric.jar",
                     "mc_versions": [
@@ -604,35 +634,6 @@
                     ],
                     "size": 192205,
                     "date_published": "2025-05-06T12:16:33.500Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "dynamic-fps-3.9.4+minecraft-1.21.5-fabric.jar",
-                    "mc_versions": [
-                        "1.21.5",
-                        "25w14craftmine",
-                        "25w15a",
-                        "25w16a",
-                        "25w17a",
-                        "25w18a",
-                        "25w19a"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wrSjf4ld/dynamic-fps-3.9.4+minecraft-1.21.5-fabric.jar",
-                    "id": "wrSjf4ld",
-                    "parent_id": "LQ3K71Q1",
-                    "hashes": {
-                        "sha512": "fa59f35bfdd3509c49362cbcdda35a08f706ff053594afd44c37176d75c536120cb66fa2b129782e707a6aa7fe2ecb7d3bd477d0e22d4b6ef4c937f687626b8b",
-                        "sha1": "317fa92e11ff83bdda2dce899c1d096ef16fca9f"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 192205,
-                    "date_published": "2025-05-06T12:16:35.139124Z"
                 }
             ]
         },
@@ -784,34 +785,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.5",
-                        "1.21.4",
-                        "1.21.3",
-                        "1.21.1",
-                        "1.21.2"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6327/842/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
-                    "id": "6327842",
-                    "parent_id": "308769",
-                    "hashes": {
-                        "sha1": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1",
-                        "md5": "a5c2953271eede6b0dded7a2bc3f09fe"
-                    },
-                    "required_dependencies": [],
-                    "size": 7159151,
-                    "date_published": "2025-03-21T08:55:24.303Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+                    "file_name": "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
                     "mc_versions": [
                         "1.14",
                         "1.14.1",
@@ -855,16 +830,42 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
-                    "id": "E4WyjCxJ",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/iqWDz8qt/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+                    "id": "iqWDz8qt",
                     "parent_id": "Ha28R6CL",
                     "hashes": {
-                        "sha512": "875c8ea380dce07c8a3dd5249226265745d3fc84876e2f1b235ce99084aa991f7d08c05ab12d73a3209649e3bd4d7c407b96d4b4f4a332179d40afdae836a92f",
-                        "sha1": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1"
+                        "sha512": "805eb96067560fa8acc8fcc7dbfba4ad8eed1a2bc9b46566e184f122533fdff844288f3df635762e1af927a4efe8989e9f11007a24bcdc73a32fc2dbebd720c3",
+                        "sha1": "848dd463bc9d75de4c519dff30cfc0666ead10d6"
                     },
                     "required_dependencies": [],
-                    "size": 7159151,
-                    "date_published": "2025-03-21T08:55:27.595588Z"
+                    "size": 7163558,
+                    "date_published": "2025-05-14T07:49:20.408120Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6528/301/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+                    "id": "6528301",
+                    "parent_id": "308769",
+                    "hashes": {
+                        "sha1": "848dd463bc9d75de4c519dff30cfc0666ead10d6",
+                        "md5": "3c186cee540e7f21d8327bed71dd9d6b"
+                    },
+                    "required_dependencies": [],
+                    "size": 7163558,
+                    "date_published": "2025-05-14T07:49:17.687Z"
                 }
             ]
         },
@@ -2232,7 +2233,7 @@
                         "fabric",
                         "quilt"
                     ],
-                    "release_type": "alpha",
+                    "release_type": "beta",
                     "url": "https://edge.forgecdn.net/files/6515/63/Xaeros_Minimap_25.2.6_Fabric_1.21.5.jar",
                     "id": "6515063",
                     "parent_id": "263420",
@@ -2272,32 +2273,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "XaerosWorldMap_1.39.8_Fabric_1.21.5.jar",
-                    "mc_versions": [
-                        "1.21.5"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6451/134/XaerosWorldMap_1.39.8_Fabric_1.21.5.jar",
-                    "id": "6451134",
-                    "parent_id": "317780",
-                    "hashes": {
-                        "sha1": "0ac5e0253688741cf136715bd84f96ecb991fc02",
-                        "md5": "ce04099529b7d94caedcc32c21dc1257"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 974513,
-                    "date_published": "2025-04-22T09:19:39.987Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "XaerosWorldMap_1.39.8_Fabric_1.21.5.jar",
+                    "file_name": "XaerosWorldMap_1.39.9_Fabric_1.21.5.jar",
                     "mc_versions": [
                         "1.21.5"
                     ],
@@ -2306,18 +2283,42 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/dh8PNs35/XaerosWorldMap_1.39.8_Fabric_1.21.5.jar",
-                    "id": "dh8PNs35",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/NFdP28cA/XaerosWorldMap_1.39.9_Fabric_1.21.5.jar",
+                    "id": "NFdP28cA",
                     "parent_id": "NcUtCpym",
                     "hashes": {
-                        "sha512": "354ba3e9b2aa8e2f1635d4da13e0d7d0e4c43ba744a4c5fbf5fc55708bb9d6c2b290455cd607a53ea10fb248f2de72ccc2636e860214e715aa0951f8e4304356",
-                        "sha1": "0ac5e0253688741cf136715bd84f96ecb991fc02"
+                        "sha512": "99b5f7e9a276d791589c8aae1fc168eaaee76b6193fb20681ede7cc1b324f2086f6c1b01ad07a9267d9781417ccba38fd4f098a94cf4839d9bbd5c3b628c075c",
+                        "sha1": "e90177a626930d31cc5cacdb8dcc33cb3f9cf234"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 974513,
-                    "date_published": "2025-04-22T09:23:05.049485Z"
+                    "size": 975047,
+                    "date_published": "2025-05-17T08:43:37.888777Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "XaerosWorldMap_1.39.9_Fabric_1.21.5.jar",
+                    "mc_versions": [
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/6538/386/XaerosWorldMap_1.39.9_Fabric_1.21.5.jar",
+                    "id": "6538386",
+                    "parent_id": "317780",
+                    "hashes": {
+                        "sha1": "e90177a626930d31cc5cacdb8dcc33cb3f9cf234",
+                        "md5": "7f922b859ccb894e2f718363c1384a28"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 975047,
+                    "date_published": "2025-05-17T08:33:01.313Z"
                 }
             ]
         },
