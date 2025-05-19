@@ -19,6 +19,7 @@ It is included in the modpack's LICENSES file, at least for most of the mods, at
 - Create a new discord app following [this guide](https://gitlab.com/CDAGaming/CraftPresence/-/wikis/Making-your-Own-Client-ID-+-Using-your-own-Images) to get a unique pack name and images
 - Get a clear glass resource pack and figure out how to set it to server resource pack
 - Maybe add Presence Footsteps for better immmersive gameplay
+- Add something to show mob spawn
 
 # Upcoming Release
 
